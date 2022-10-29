@@ -38,7 +38,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Author
 
-- Website - [Danil Zimarev]()
+- Website - [Danil Zimarev](https://vk.com/danil_zimarev)
 - Frontend Mentor - [@1ce2k](https://www.frontendmentor.io/profile/yourusername)
 - Instagram - [_1ce2k](https://www.instagram.com/_1ce2k?igshid=YmMyMTA2M2Y=)
 - Twitter - [_1ce2k](https://twitter.com/_1ce2k)
