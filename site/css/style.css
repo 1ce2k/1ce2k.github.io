@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: var(--lightGray);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+:root {
+    --white: hsl(0, 0%, 100%);
+    --lightGray: hsl(212, 45%, 89%);
+    --grayishBlue: hsl(220, 15%, 55%);
+    --darkBlue: hsl(218, 44%, 22%);
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.qr_background {
+    width: 324px;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--white);
+    border-radius: 20px;
+    box-shadow: 0 15px 20px 6px rgba(34, 60, 80, 10%);
+    padding-top: 15px;
+}
+
+.qr_code_img {
+    height: 290px;
+    width: 290px;
+    border-radius: 10px;
+    margin-bottom: 18px;
+}
+
+h1 {
+    width: 290px;
+    height: 56px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+    text-align: center;
+    font-size: 22px;
+    margin-bottom: 16px;
+}
+
+p {
+    width: 249px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    text-align: center;
+    letter-spacing: 0.015em;
+}
+
+@media screen and (max-width: 375px) {
+
+}
