@@ -12,10 +12,11 @@ body {
 }
 
 .container {
-    height: 100vh;
+    height: 98vh;
     display: flex;
     justify-content: center;
     align-items: center;
+
 }
 
 
@@ -71,6 +72,12 @@ p {
     letter-spacing: 0.015em;
 }
 
-@media screen and (max-width: 375px) {
 
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
 }
