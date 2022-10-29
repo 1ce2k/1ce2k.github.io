@@ -45,7 +45,7 @@ body {
     padding-top: 15px;
 }
 
-.qr_code_img {
+.qrcode{
     height: 290px;
     width: 290px;
     border-radius: 10px;
